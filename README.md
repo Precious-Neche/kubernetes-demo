@@ -13,8 +13,8 @@ This project demonstrates deploying a simple web application with MongoDB on Kub
 
 1. **Clone the repository**  
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone(https://github.com/Precious-Neche/kubernetes-demo.git)
+   cd Kubernetes-Demo
    ```
 
 2. **Apply MongoDB Secret and ConfigMap**  
